@@ -1,2 +1,2 @@
-# MinaevaAnna_CoffeeSales_Visualisation_And_Prediction
+# Minaeva_Coffee_Visualisation_And_Prediction
 Курсовой проект по дисциплине «Технологии обработки больших данных» на тему: «Визуализация аналитики и прогнозирование продаж кофе»
